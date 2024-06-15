@@ -1,0 +1,6 @@
+2024-06-09 19:25:12.4745 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:12.4232692Z"}
+2024-06-09 19:25:33.0551 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:33.05505Z"}
+2024-06-09 19:25:37.2015 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:37.2014835Z"}
+2024-06-09 19:25:40.0541 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:40.0541151Z"}
+2024-06-09 19:25:42.4208 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:42.4208189Z"}
+2024-06-09 19:25:44.6904 INFO {"ModelName":"OnActionExecuting","Controller":"Coins","Action":"GetAllCoins","Id":null,"CreateAt":"2024-06-09T16:25:44.6903713Z"}

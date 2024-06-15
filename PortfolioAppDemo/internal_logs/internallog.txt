@@ -1,0 +1,488 @@
+2024-05-10 19:26:34.3394 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-10 19:26:34.4239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-10 19:26:34.4511 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\PortfolioAppDemo\nlog.config
+2024-05-10 19:26:34.4763 Info Configuration initialized.
+2024-05-10 19:29:01.3394 Info AppDomain Shutting down. LogFactory closing...
+2024-05-10 19:29:01.3563 Info LogFactory has been closed.
+2024-05-11 12:37:09.7225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 12:37:09.7908 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 12:37:09.8162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\PortfolioAppDemo\nlog.config
+2024-05-11 12:37:09.8583 Info Configuration initialized.
+2024-05-11 12:40:40.1048 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 12:40:40.1266 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 12:40:40.1421 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\PortfolioAppDemo\nlog.config
+2024-05-11 12:40:40.1632 Info Configuration initialized.
+2024-05-19 13:42:31.5987 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-19 13:42:31.6513 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-19 13:42:31.6653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-19 13:42:31.6824 Info Configuration initialized.
+2024-05-19 13:54:19.0719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-19 13:54:19.0843 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-19 13:54:19.0987 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-19 13:54:19.1196 Info Configuration initialized.
+2024-05-19 13:56:10.9487 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-19 13:56:10.9601 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-19 13:56:10.9772 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-19 13:56:11.0090 Info Configuration initialized.
+2024-05-19 13:59:40.8945 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-19 13:59:40.8945 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-19 13:59:40.9191 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-19 13:59:40.9313 Info Configuration initialized.
+2024-05-19 14:09:14.4014 Info AppDomain Shutting down. LogFactory closing...
+2024-05-19 14:09:14.4116 Info LogFactory has been closed.
+2024-05-23 12:37:34.4797 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-23 12:37:34.5600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-23 12:37:34.5804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-23 12:37:34.6062 Info Configuration initialized.
+2024-05-28 23:33:34.8752 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-28 23:33:34.9088 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-28 23:33:34.9297 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-28 23:33:34.9456 Info Configuration initialized.
+2024-05-30 13:15:37.9247 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-30 13:15:37.9779 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-30 13:15:38.0064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-30 13:15:38.0399 Info Configuration initialized.
+2024-05-30 13:37:35.1095 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-30 13:37:35.1535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-30 13:37:35.1831 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-05-30 13:37:35.2250 Info Configuration initialized.
+2024-06-02 11:44:34.9164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-02 11:44:34.9558 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-02 11:44:34.9774 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-02 11:44:35.0000 Info Configuration initialized.
+2024-06-02 14:41:16.9523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-02 14:41:16.9943 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-02 14:41:17.0134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-02 14:41:17.0374 Info Configuration initialized.
+2024-06-05 21:05:54.8185 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-05 21:05:54.8616 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-05 21:05:54.8743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-05 21:05:54.8882 Info Configuration initialized.
+2024-06-05 21:07:05.7245 Info AppDomain Shutting down. LogFactory closing...
+2024-06-05 21:07:05.7386 Info LogFactory has been closed.
+2024-06-09 19:24:54.3719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:24:54.4270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:24:54.4393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-09 19:24:54.4393 Info Configuration initialized.
+2024-06-11 00:58:19.4156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 00:58:19.4716 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 00:58:19.4836 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 00:58:19.5001 Info Configuration initialized.
+2024-06-11 01:03:55.4743 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:03:55.4855 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:03:55.4955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:03:55.4955 Info Configuration initialized.
+2024-06-11 01:03:56.4819 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 01:03:56.4819 Info LogFactory has been closed.
+2024-06-11 01:04:03.0156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:04:03.0448 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:04:03.0612 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:04:03.0862 Info Configuration initialized.
+2024-06-11 01:04:59.1019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:04:59.1120 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:04:59.1216 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:04:59.1216 Info Configuration initialized.
+2024-06-11 01:04:59.8773 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 01:04:59.8869 Info LogFactory has been closed.
+2024-06-11 01:05:09.2093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:05:09.2196 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:05:09.2290 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:05:09.2290 Info Configuration initialized.
+2024-06-11 01:05:10.1198 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 01:05:10.1198 Info LogFactory has been closed.
+2024-06-11 01:05:13.6720 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:05:13.7044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:05:13.7275 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:05:13.7501 Info Configuration initialized.
+2024-06-11 01:09:48.4027 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:09:48.4317 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:09:48.4524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:09:48.4805 Info Configuration initialized.
+2024-06-11 01:12:14.1173 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:12:14.1510 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:12:14.1743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:12:14.1992 Info Configuration initialized.
+2024-06-11 01:18:06.9643 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:18:06.9844 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:18:07.0007 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:18:07.0148 Info Configuration initialized.
+2024-06-11 01:22:47.5476 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:22:47.5686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:22:47.5802 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:22:47.6003 Info Configuration initialized.
+2024-06-11 01:27:57.6767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:27:57.6992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:27:57.6992 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:27:57.7250 Info Configuration initialized.
+2024-06-11 01:29:55.9189 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:29:55.9433 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:29:55.9617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:29:55.9809 Info Configuration initialized.
+2024-06-11 01:33:58.6122 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:33:58.6398 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:33:58.6607 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:33:58.6825 Info Configuration initialized.
+2024-06-11 01:36:12.8815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:36:12.9009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:36:12.9277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:36:12.9488 Info Configuration initialized.
+2024-06-11 01:39:54.5637 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:39:54.5752 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:39:54.5752 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:39:54.5982 Info Configuration initialized.
+2024-06-11 01:39:55.2437 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 01:39:55.2514 Info LogFactory has been closed.
+2024-06-11 01:39:59.4221 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:39:59.4221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:39:59.4411 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:39:59.4578 Info Configuration initialized.
+2024-06-11 01:40:00.2865 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 01:40:00.2940 Info LogFactory has been closed.
+2024-06-11 01:40:03.7745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:40:03.8050 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:40:03.8308 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:40:03.8611 Info Configuration initialized.
+2024-06-11 01:40:55.3574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:40:55.3798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:40:55.3977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:40:55.4146 Info Configuration initialized.
+2024-06-11 01:42:06.0167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:42:06.0394 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:42:06.0605 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:42:06.0864 Info Configuration initialized.
+2024-06-11 01:44:24.6152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 01:44:24.6365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 01:44:24.6538 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 01:44:24.6736 Info Configuration initialized.
+2024-06-11 18:21:22.7843 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 18:21:22.8678 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 18:21:22.8856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 18:21:22.9080 Info Configuration initialized.
+2024-06-11 20:42:23.3971 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 20:42:23.4106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 20:42:23.4200 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 20:42:23.4348 Info Configuration initialized.
+2024-06-11 20:42:24.4730 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 20:42:24.4730 Info LogFactory has been closed.
+2024-06-11 20:43:01.9806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 20:43:01.9806 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 20:43:02.0031 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 20:43:02.0169 Info Configuration initialized.
+2024-06-11 20:43:04.1879 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 20:43:04.1879 Info LogFactory has been closed.
+2024-06-11 20:53:08.9085 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 20:53:08.9191 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 20:53:08.9191 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 20:53:08.9445 Info Configuration initialized.
+2024-06-11 20:53:10.0425 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 20:53:10.0425 Info LogFactory has been closed.
+2024-06-11 20:53:34.0576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 20:53:34.0576 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 20:53:34.0808 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 20:53:34.0808 Info Configuration initialized.
+2024-06-11 20:53:36.0875 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 20:53:36.0968 Info LogFactory has been closed.
+2024-06-11 21:44:38.0772 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 21:44:38.1582 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 21:44:38.1726 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 21:44:38.1897 Info Configuration initialized.
+2024-06-11 23:52:44.8152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 23:52:44.8385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 23:52:44.8584 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 23:52:44.8874 Info Configuration initialized.
+2024-06-11 23:59:25.3083 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 23:59:25.3954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 23:59:25.4261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-11 23:59:25.4538 Info Configuration initialized.
+2024-06-12 00:01:04.1779 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:01:04.2034 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:01:04.2205 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:01:04.2423 Info Configuration initialized.
+2024-06-12 00:04:16.7443 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:04:16.7912 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:04:16.8239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:04:16.8568 Info Configuration initialized.
+2024-06-12 00:07:59.7940 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:07:59.8172 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:07:59.8426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:07:59.8692 Info Configuration initialized.
+2024-06-12 00:08:58.7734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:08:58.7951 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:08:58.8124 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:08:58.8340 Info Configuration initialized.
+2024-06-12 00:11:32.3743 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:11:32.4020 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:11:32.4379 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:11:32.4693 Info Configuration initialized.
+2024-06-12 00:12:33.5968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:12:33.6234 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:12:33.6234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:12:33.6557 Info Configuration initialized.
+2024-06-12 00:13:05.1321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:13:05.1598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:13:05.1748 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:13:05.1927 Info Configuration initialized.
+2024-06-12 00:17:15.5951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:17:15.6133 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:17:15.6279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:17:15.6459 Info Configuration initialized.
+2024-06-12 00:22:34.3347 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:22:34.3557 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:22:34.3698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:22:34.3886 Info Configuration initialized.
+2024-06-12 00:25:07.0364 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:25:07.0569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:25:07.0569 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:25:07.0904 Info Configuration initialized.
+2024-06-12 00:28:29.6679 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 00:28:29.6842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 00:28:29.6842 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 00:28:29.7123 Info Configuration initialized.
+2024-06-12 14:20:17.4588 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 14:20:17.5071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 14:20:17.5210 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 14:20:17.5383 Info Configuration initialized.
+2024-06-12 14:23:38.4401 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 14:23:38.4647 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 14:23:38.4792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 14:23:38.4947 Info Configuration initialized.
+2024-06-12 14:43:10.5925 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 14:43:10.6110 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 14:43:10.6273 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 14:43:10.6517 Info Configuration initialized.
+2024-06-12 15:28:18.2045 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:28:18.2281 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:28:18.2410 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:28:18.2581 Info Configuration initialized.
+2024-06-12 15:31:19.2986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:31:19.3420 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:31:19.3740 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:31:19.4147 Info Configuration initialized.
+2024-06-12 15:32:26.5077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:32:26.5337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:32:26.5495 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:32:26.5744 Info Configuration initialized.
+2024-06-12 15:35:28.0181 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:35:28.0506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:35:28.0901 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:35:28.1205 Info Configuration initialized.
+2024-06-12 15:37:32.7657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:37:32.8607 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:37:32.8907 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:37:32.9198 Info Configuration initialized.
+2024-06-12 15:39:46.5497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:39:46.5732 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:39:46.5863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 15:39:46.6117 Info Configuration initialized.
+2024-06-12 16:57:01.8593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 16:57:01.9066 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 16:57:01.9181 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 16:57:01.9374 Info Configuration initialized.
+2024-06-12 17:02:35.7071 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:02:35.7262 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:02:35.7436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:02:35.7743 Info Configuration initialized.
+2024-06-12 17:04:55.3418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:04:55.4036 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:04:55.4143 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:04:55.4278 Info Configuration initialized.
+2024-06-12 17:07:06.7255 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:07:06.8030 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:07:06.8293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:07:06.8553 Info Configuration initialized.
+2024-06-12 17:10:21.6375 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:10:21.6566 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:10:21.6692 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:10:21.7028 Info Configuration initialized.
+2024-06-12 17:14:19.6376 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:14:19.6565 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:14:19.6720 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:14:19.6899 Info Configuration initialized.
+2024-06-12 17:15:12.2826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:15:12.3098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:15:12.3322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:15:12.3541 Info Configuration initialized.
+2024-06-12 17:19:46.6868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:19:46.7111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:19:46.7266 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:19:46.7520 Info Configuration initialized.
+2024-06-12 17:27:57.0482 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:27:57.0761 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:27:57.0944 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:27:57.1221 Info Configuration initialized.
+2024-06-12 17:31:38.0413 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 17:31:38.0768 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 17:31:38.1066 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 17:31:38.1401 Info Configuration initialized.
+2024-06-12 18:10:48.2452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 18:10:48.2843 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 18:10:48.3059 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 18:10:48.3531 Info Configuration initialized.
+2024-06-12 18:11:37.7879 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 18:11:37.8079 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 18:11:37.8196 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 18:11:37.8326 Info Configuration initialized.
+2024-06-12 18:12:14.8057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 18:12:14.8357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 18:12:14.8675 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 18:12:14.9589 Info Configuration initialized.
+2024-06-12 21:28:06.5298 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:28:06.5649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:28:06.5822 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:28:06.6012 Info Configuration initialized.
+2024-06-12 21:30:05.9992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:30:06.0219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:30:06.0347 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:30:06.0507 Info Configuration initialized.
+2024-06-12 21:52:19.2248 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:52:19.2440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:52:19.2596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:52:19.2798 Info Configuration initialized.
+2024-06-12 21:59:13.9363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:59:13.9363 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:59:13.9585 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:59:13.9697 Info Configuration initialized.
+2024-06-12 21:59:14.7179 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 21:59:14.7179 Info LogFactory has been closed.
+2024-06-12 21:59:26.4226 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:59:26.4226 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:59:26.4431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:59:26.4543 Info Configuration initialized.
+2024-06-12 21:59:27.2465 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 21:59:27.2465 Info LogFactory has been closed.
+2024-06-12 21:59:59.6955 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 21:59:59.7076 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 21:59:59.7167 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 21:59:59.7167 Info Configuration initialized.
+2024-06-12 22:00:00.3829 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 22:00:00.3911 Info LogFactory has been closed.
+2024-06-12 22:00:03.1666 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 22:00:03.1779 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 22:00:03.1869 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 22:00:03.1869 Info Configuration initialized.
+2024-06-12 22:00:07.1408 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 22:00:07.1408 Info LogFactory has been closed.
+2024-06-12 22:01:08.2840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 22:01:08.2945 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 22:01:08.2945 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 22:01:08.3179 Info Configuration initialized.
+2024-06-12 22:01:09.1825 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 22:01:09.1897 Info LogFactory has been closed.
+2024-06-12 22:01:18.5910 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 22:01:18.5910 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 22:01:18.6103 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 22:01:18.6230 Info Configuration initialized.
+2024-06-12 22:01:20.1014 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 22:01:20.1090 Info LogFactory has been closed.
+2024-06-12 22:01:58.0702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 22:01:58.1110 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 22:01:58.1339 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 22:01:58.1609 Info Configuration initialized.
+2024-06-12 22:30:31.6853 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 22:30:31.8203 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 22:30:31.8402 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 22:30:31.8608 Info Configuration initialized.
+2024-06-12 23:05:54.4990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:05:54.5321 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:05:54.5321 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:05:54.5526 Info Configuration initialized.
+2024-06-12 23:05:55.5987 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 23:05:55.6064 Info LogFactory has been closed.
+2024-06-12 23:06:03.1888 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:06:03.2008 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:06:03.2008 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:06:03.2295 Info Configuration initialized.
+2024-06-12 23:06:04.8152 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 23:06:04.8248 Info LogFactory has been closed.
+2024-06-12 23:39:52.8862 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:39:52.9383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:39:52.9561 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:39:52.9742 Info Configuration initialized.
+2024-06-12 23:52:19.4348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:52:19.4851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:52:19.5385 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:52:19.5539 Info Configuration initialized.
+2024-06-12 23:57:05.2674 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:57:05.2970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:57:05.3237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:57:05.3531 Info Configuration initialized.
+2024-06-12 23:57:44.3787 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:57:44.4059 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:57:44.4258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:57:44.4425 Info Configuration initialized.
+2024-06-12 23:58:26.1201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 23:58:26.1453 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 23:58:26.1646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-12 23:58:26.2109 Info Configuration initialized.
+2024-06-13 00:00:04.2907 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:00:04.3194 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:00:04.3381 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:00:04.3589 Info Configuration initialized.
+2024-06-13 00:08:24.1184 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:08:24.1401 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:08:24.1565 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:08:24.1742 Info Configuration initialized.
+2024-06-13 00:15:00.1115 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:15:00.1514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:15:00.1715 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:15:00.1971 Info Configuration initialized.
+2024-06-13 00:19:42.7709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:19:42.7903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:19:42.8130 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:19:42.8641 Info Configuration initialized.
+2024-06-13 00:29:13.1976 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:29:13.2089 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:29:13.2225 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:29:13.2360 Info Configuration initialized.
+2024-06-13 00:29:14.2903 Info AppDomain Shutting down. LogFactory closing...
+2024-06-13 00:29:14.2999 Info LogFactory has been closed.
+2024-06-13 00:29:20.2177 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:29:20.2307 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:29:20.2307 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:29:20.2542 Info Configuration initialized.
+2024-06-13 00:29:21.4000 Info AppDomain Shutting down. LogFactory closing...
+2024-06-13 00:29:21.4139 Info LogFactory has been closed.
+2024-06-13 00:29:26.2028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:29:26.2265 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:29:26.2460 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:29:26.2673 Info Configuration initialized.
+2024-06-13 00:32:01.8006 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:32:01.8383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:32:01.8840 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:32:01.9208 Info Configuration initialized.
+2024-06-13 00:36:32.0243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:36:32.0530 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:36:32.0740 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:36:32.1107 Info Configuration initialized.
+2024-06-13 00:45:29.6967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:45:29.7352 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:45:29.7604 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:45:29.7879 Info Configuration initialized.
+2024-06-13 00:52:59.0455 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:52:59.1332 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:52:59.1532 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:52:59.1744 Info Configuration initialized.
+2024-06-13 00:54:52.2164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 00:54:52.2791 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 00:54:52.3217 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 00:54:52.4151 Info Configuration initialized.
+2024-06-13 01:02:38.9339 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 01:02:39.0082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 01:02:39.0388 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 01:02:39.0774 Info Configuration initialized.
+2024-06-13 12:24:27.3514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 12:24:27.6283 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 12:24:27.7508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 12:24:27.9257 Info Configuration initialized.
+2024-06-13 12:34:57.1035 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 12:34:57.1792 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 12:34:57.2277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 12:34:57.2741 Info Configuration initialized.
+2024-06-13 12:52:07.4904 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 12:52:07.5295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 12:52:07.5567 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 12:52:07.6020 Info Configuration initialized.
+2024-06-13 13:36:16.0065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-13 13:36:16.0613 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-13 13:36:16.0737 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Can\Desktop\Bilgi_Sistemleri\Proje\PortfolioAppDemo\nlog.config
+2024-06-13 13:36:16.0737 Info Configuration initialized.
